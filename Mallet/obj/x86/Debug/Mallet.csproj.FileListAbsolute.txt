@@ -1,0 +1,16 @@
+Q:\Mallet2\Mallet\obj\x86\Debug\Mallet.csprojAssemblyReference.cache
+Q:\Mallet2\Mallet\obj\x86\Debug\Mallet.csproj.CoreCompileInputs.cache
+Q:\Mallet2\Mallet\bin\x86\Debug\Mallet.exe.config
+Q:\Mallet2\Mallet\bin\x86\Debug\Mallet.exe
+Q:\Mallet2\Mallet\bin\x86\Debug\Mallet.pdb
+Q:\Mallet2\Mallet\bin\x86\Debug\Google.Protobuf.dll
+Q:\Mallet2\Mallet\bin\x86\Debug\KeraLua.dll
+Q:\Mallet2\Mallet\bin\x86\Debug\MySql.Data.dll
+Q:\Mallet2\Mallet\bin\x86\Debug\Newtonsoft.Json.dll
+Q:\Mallet2\Mallet\bin\x86\Debug\NLua.dll
+Q:\Mallet2\Mallet\bin\x86\Debug\Google.Protobuf.xml
+Q:\Mallet2\Mallet\bin\x86\Debug\MySql.Data.xml
+Q:\Mallet2\Mallet\bin\x86\Debug\Newtonsoft.Json.xml
+Q:\Mallet2\Mallet\obj\x86\Debug\Mallet.csproj.CopyComplete
+Q:\Mallet2\Mallet\obj\x86\Debug\Mallet.exe
+Q:\Mallet2\Mallet\obj\x86\Debug\Mallet.pdb
